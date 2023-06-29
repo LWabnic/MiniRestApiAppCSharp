@@ -1,0 +1,16 @@
+# Ignore .dockerignore file
+.dockerignore
+
+# Ignore .idea/ directory
+.idea/
+
+# Ignore solution files
+MiniRestApp.sln
+MiniRestApp.sln.DotSettings.user
+
+# Ignore build artifacts
+**/bin/
+**/obj/
+
+# Exclude test.csv file
+MiniRestAppTests/bin/

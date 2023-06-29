@@ -1,0 +1,6 @@
+CustomerRef,CustomerName,AddressLine1,AddressLine2,Town,County,Country,Postcode
+REF1,John Doe,123 Main St,,City,,,12345
+REF2,Jane Smith,456 Elm St,,Town,,,67890
+REF3,Alice Johnson,789 Oak St,,Village,,,54321
+REF4,Bob Williams,987 Pine St,,Hamlet,,,09876
+REF5,Sarah Brown,654 Cedar St,,Suburb,,,76543
